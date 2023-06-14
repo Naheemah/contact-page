@@ -133,6 +133,7 @@ i {
 @media (max-width: 450px) {
     .box {
         display: block;
+        margin-bottom: 20px;
     }
 
     .form-box {
